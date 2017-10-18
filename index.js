@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
-   alert('w00t it works');
+
+   alert('Thanks for visiting and please check out our shop.');
+
 
 });
